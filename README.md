@@ -1,5 +1,6 @@
 # omniclown
-A thing to copy transactions from one fork to another to fun
+A thing to copy transactions from one fork to another to fun when someone doesn't 
+impliment replay protection.
 
 Edit clown.conf for the nodes you want to connect up.
 
